@@ -57,7 +57,9 @@ Here’s what the final dashboard aims to include:
 ---
 
 ## 📷 Images & Schematics
-5445194357624925624.jpg
+
+![My dashboard](5445194357624925624.jpg)
+
 
 
 ### LCD Segment Mapping
