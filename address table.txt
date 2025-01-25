@@ -1,0 +1,147 @@
+Group Run
+Bit and Symbol Command
+1 character, segment A Addr = 0 / Bit = 7
+1 character, segment B Addr = 4 / Bit = 2
+1 character, segment C Addr = 4 / Bit = 1
+1 character, segment D Addr = 4 / Bit = 0
+1 character, segment E Addr = 0 / Bit = 4
+1 character, segment F Addr = 0 / Bit = 6
+1 character, segment G Addr = 0 / Bit = 5
+2 character, segment A Addr = 4 / Bit = 7
+2 character, segment B Addr = 5 / Bit = 6
+2 character, segment C Addr = 5 / Bit = 5
+2 character, segment D Addr = 5 / Bit = 4
+2 character, segment E Addr = 4 / Bit = 4
+2 character, segment F Addr = 4 / Bit = 6
+2 character, segment G Addr = 4 / Bit = 5
+2 character, segment DP Addr = 5 / Bit = 7
+3 character, segment A Addr = 5 / Bit = 3
+3 character, segment B Addr = 6 / Bit = 6
+3 character, segment C Addr = 6 / Bit = 5
+3 character, segment D Addr = 6 / Bit = 4
+3 character, segment E Addr = 5 / Bit = 0
+3 character, segment F Addr = 5 / Bit = 2
+3 character, segment G Addr = 5 / Bit = 1
+Km caption Addr = 6 / Bit = 0
+Mile caption Addr = 6 / Bit = 1
+
+Group Speed
+Bit and Symbol Command
+1 character, segment B,C Addr = 7 / Bit = 7
+2 character, segment A Addr = 7 / Bit = 3
+2 character, segment B Addr = 7 / Bit = 2
+2 character, segment C Addr = 7 / Bit = 1
+2 character, segment D Addr = 7 / Bit = 0
+2 character, segment E Addr = 7 / Bit = 4
+2 character, segment F Addr = 7 / Bit = 6
+2 character, segment G Addr = 7 / Bit = 5
+3 character, segment A Addr = 8 / Bit = 3
+3 character, segment B Addr = 8 / Bit = 2
+3 character, segment C Addr = 8 / Bit = 1
+3 character, segment D Addr = 8 / Bit = 0
+3 character, segment E Addr = 8 / Bit = 4
+3 character, segment F Addr = 8 / Bit = 6
+3 character, segment G Addr = 8 / Bit = 5
+Inscription km/h Addr = 12 / Bit = 6
+Inscription mph Addr = 12 / Bit = 5
+
+Group hours
+Digit and Symbol Command
+1 character, segment A, D, E, G Addr = 3 / Bit = 2
+1 character, segment B Addr = 2 / Bit = 3
+1 character, segment C Addr = 3 / Bit = 1
+2 character, segment A Addr = 3 / Bit = 7
+2 character, segment B Addr = 2 / Bit = 2
+2 character, segment C Addr = 2 / Bit = 1
+2 character, segment D Addr = 2 / Bit = 0
+2 character, segment E Addr = 3 / Bit = 4
+2 character, segment F Addr = 3 / Bit = 5
+2 character, segment G Addr = 3 / Bit = 6
+3 character, segment A Addr = 2 / Bit = 7
+3 character, segment B Addr = 1 / Bit = 2
+3 character, segment C Addr = 1 / Bit = 1
+3 character, segment D Addr = 1 / Bit = 0
+3 character, segment E Addr = 2 / Bit = 4
+3 character, segment F Addr = 2 / Bit = 6
+3 character, segment G Addr = 2 / Bit = 5
+4 character, segment A Addr = 1 / Bit = 7
+4 character, segment B Addr = 0 / Bit = 2
+4 character, segment C Addr = 0 / Bit = 1
+4 character, segment D Addr = 0 / Bit = 0
+4 character, segment E Addr = 1 / Bit = 4
+4 character, segment F Addr = 1 / Bit = 6
+4 character, segment G Addr = 1 / Bit = 5
+Colon and clock emblem Addr = 3 / Bit = 3
+
+Voltage Group
+Bit and Symbol Command
+1 character, segment B, C Addr = 12 / Bit = 4
+2 character, segment A Addr = 12 / Bit = 3
+2 character, segment B Addr = 13 / Bit = 6
+2 character, segment C Addr = 13 / Bit = 5
+2 character, segment D Addr = 13 / Bit = 4
+2 character, segment E Addr = 12 / Bit = 0
+2 character, segment F Addr = 12 / Bit = 2
+2 character, segment G Addr = 12 / Bit = 1
+3 character, segment A Addr = 13 / Bit = 3
+3 character, segment B Addr = 14 / Bit = 6
+3 character, segment C Addr = 14 / Bit = 5
+3 character, segment D Addr = 14 / Bit = 4
+3 character, segment E Addr = 13 / Bit = 0
+3 character, segment F Addr = 13 / Bit = 2
+3 character, segment G Addr = 13 / Bit = 1
+4 character, segment A Addr = 14 / Bit = 3
+4 character, segment B Addr = 15 / Bit = 6
+4 character, segment C Addr = 15 / Bit = 5
+4 character, segment D Addr = 15 / Bit = 4
+4 character, segment E Addr = 14 / Bit = 0
+4 character, segment F Addr = 14 / Bit = 2
+4 character, segment G Addr = 14 / Bit = 1
+Dot in 3 character emblem V, emblem half-arc Addr = 15 / Bit = 7
+
+
+Group Temperature
+Bit and Symbol Command
+1st symbol, segment B,C Addr = 9 / Bit = 3
+2nd symbol, segment A Addr = 10 / Bit = 4
+2nd symbol, segment B Addr = 10 / Bit = 5
+2nd symbol, segment C Addr = 10 / Bit = 6
+2nd symbol, segment D Addr = 10 / Bit = 7
+2nd symbol, segment E Addr = 9 / Bit = 2
+2nd symbol, segment F Addr = 9 / Bit = 0
+2nd symbol, segment G Addr = 9 / Bit = 1
+3rd symbol, segment A Addr = 11 / Bit = 4
+3rd symbol, segment B Addr = 11 / Bit = 5
+3rd symbol, segment C Addr = 11 / Bit = 6
+3rd symbol, segment D Addr = 11 / Bit = 7
+3rd symbol, segment E Addr = 10 / Bit = 2
+3rd symbol, segment F Addr = 10 / Bit = 0
+3 character, segment G Addr = 10 / Bit = 1
+Inscription C Addr = 11 / Bit = 0
+Inscription A Addr = 11 / Bit = 1
+Inscription minus Addr = 10 / Bit = 3
+
+
+Emblem Group
+Bit and Symbol Command
+Headlamp Emblem Addr = 11 / Bit = 2
+ECU Emblem Addr = 15 / Bit = 3
+M Emblem Addr = 15 / Bit = 1
+Emblem ! Addr = 15 / Bit = 0
+Check Emblem Addr = 15 / Bit = 2
+Turn R Emblem Addr = 11 / Bit = 3
+Turn L Emblem Addr = 9 / Bit = 4
+Gear 1 Addr = 9 / Bit = 5
+Gear 2 Addr = 9 / Bit = 6
+Gear 3 Addr = 9 / Bit = 7
+Gear 4 Addr = 3 / Bit = 0
+Speed ​​Arrow 10-20 Addr = 1 / Bit = 3
+Speed ​​Arrow 30-40 Addr = 0 / Bit = 3
+Speed ​​Arrow 50-60 Addr = 8 / Bit = 7
+Speed ​​Arrow 70-90 Addr = 12 / Bit = 7
+Speed ​​Arrow 110-130 Addr = 14 / Bit = 7
+Bottom Bar 1 Addr = 4 / Bit = 3
+Bottom strip 2 Addr = 6 / Bit = 7
+Bottom strip 3 Addr = 6 / Bit = 3
+Bottom strip 4 Addr = 6 / Bit = 2
+Bottom strip 5 Addr = 13 / Bit = 7
