@@ -3,6 +3,8 @@
 Welcome to the repository for the **Custom LCD Dashboard for Electric Bike** project! 🚲⚡️  
 This project is dedicated to designing and implementing a custom instrument panel for an electric bike using an LCD display. The goal is to create a fully functional and customizable dashboard to monitor essential parameters while riding.
 
+![Beta v1.0](beta%20V1.0.jpg)
+
 ---
 
 ## 📋 Project Overview
@@ -58,7 +60,7 @@ Here’s what the final dashboard aims to include:
  
 ## 📷 Images & Schematics
 
-![Image alt](test photo.jpg)
+![my](test%20photo.jpg)
 
 
 
