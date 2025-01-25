@@ -15,6 +15,11 @@ void setup() {
   Serial.println("=== Segment Mapping + Serial Control ===");
 
   lcd.begin();
+  lcd.sendCommand(HT1621::BIAS_THIRD_4_COM); 
+  lcd.sendCommand(HT1621::RC256K); 
+  lcd.sendCommand(HT1621::SYS_DIS); 
+  lcd.sendCommand(HT1621::WDT_DIS); 
+  lcd.sendCommand(HT1621::SYS_EN); 
   lcd.sendCommand(HT1621::LCD_ON);
   lcd.clear(); // Гасим всё
 
