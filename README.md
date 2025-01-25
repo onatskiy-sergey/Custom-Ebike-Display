@@ -55,7 +55,7 @@ Here’s what the final dashboard aims to include:
 - Supporting libraries for LCD control.
 
 ---
-
+ 
 ## 📷 Images & Schematics
 
 ![My dashboard](test photo.jpg)
