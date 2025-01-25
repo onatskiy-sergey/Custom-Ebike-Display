@@ -58,7 +58,7 @@ Here’s what the final dashboard aims to include:
  
 ## 📷 Images & Schematics
 
-![My dashboard](test photo.jpg)
+![Image alt](test photo.jpg)
 
 
 
